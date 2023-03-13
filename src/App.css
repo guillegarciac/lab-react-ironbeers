@@ -1,3 +1,5 @@
+/* ALL BEERS */
+
 .beer__link {
  text-decoration: none;
 
@@ -19,4 +21,14 @@
 
 .beer__card-content {
   margin-left: 10px;
+}
+
+/* BEER DETAIL */
+
+.beer__detail-card {
+  height: 90vh;
+}
+
+.beer__detail-card > img {
+  height: 20%;
 }

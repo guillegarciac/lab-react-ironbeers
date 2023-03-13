@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
 export default function Beers() {
-  const [beers, setBeers] = useState([]);
+  const [beers, setBeers] = useState(null);
 
   const getBeers = async () => {
     try {
