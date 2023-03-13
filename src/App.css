@@ -1,0 +1,22 @@
+.beer__link {
+ text-decoration: none;
+
+}
+
+.beer__card {
+ display: flex;
+ height: 250px;
+ margin: 30px;
+ border: 1px solid black;
+ background-color: blanchedalmond;
+}
+
+.beer__card > img{
+  width: 15%;
+  height: 75%;
+  margin: 30px;
+}
+
+.beer__card-content {
+  margin-left: 10px;
+}
