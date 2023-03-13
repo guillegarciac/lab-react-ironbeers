@@ -33,3 +33,22 @@
   height: 20%;
 }
 
+/* NEW BEER */
+
+.new__beer-form {
+  padding: 15px;
+}
+
+.new__beer-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.new__beer-form label {
+  margin-top: 20px;
+}
+
+.new__beer-form input {
+  margin-bottom: 30px;
+}
+
